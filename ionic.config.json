@@ -1,0 +1,7 @@
+{
+  "name": "ejemTabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
